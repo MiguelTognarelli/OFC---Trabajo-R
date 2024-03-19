@@ -1,5 +1,5 @@
 ---
-title: "Trabajo 1"
+title: "Trabajo_1"
 format: html
 editor: visual
 ---

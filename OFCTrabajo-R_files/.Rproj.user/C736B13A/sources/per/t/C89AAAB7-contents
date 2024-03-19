@@ -1,16 +1,10 @@
 ---
-title: "Trabajo 1"
+title: "Trabajo_1"
 format: html
 editor: visual
-bibliography: Clases.bib
-link-citations: true
 ---
 
 ## Quarto
-
-'*hola, adios*¨
-
-cita [@mijsParadoxInequalityIncome2021a]
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
